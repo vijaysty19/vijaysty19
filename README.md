@@ -12,7 +12,7 @@ feeling cool with coding and discovering more to learn my skills Based on Web De
 And I also got interested in Wireframing ,UI,UX and design in general and making a great to move to learn all these categories
 
 ## My Skills and Experiences:
-💻HTML , CSS ,JS
+💻HTML , CSS , JS
 
 
 
